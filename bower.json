@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "main": "lenses.js",
   "dependencies": {
-    "requirejs": "~2.1.11"
+    "requirejs": "~2.1.11",
+    "lodash": "latest"
   },
   "ignore": [
     "**/.*",

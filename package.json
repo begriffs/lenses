@@ -8,12 +8,14 @@
     "url": "git://github.com/drboolean/lenses.git"
   },
   "dependencies": {
-    "amdefine": "~0.1.0"
+    "amdefine": "~0.1.0",
+    "lodash": "latest"
   },
   "devDependencies": {
     "jshint": "latest",
     "sinon": "latest",
     "chai": "latest",
+    "jsverify": "latest",
     "grunt": "latest",
     "grunt-cli": "latest",
     "bower": "latest",
